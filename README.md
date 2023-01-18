@@ -1,9 +1,11 @@
 # Jogo adivinhação
 
 
-![Badge Working](http://img.shields.io/static/v1?label=STATUS&message=Working&color=blue&style=for-the-badge)
+![Badge Done](http://img.shields.io/static/v1?label=STATUS&message=Done&color=green&style=for-the-badge)
 
-> Primeiro contato com a linguagem de programação Python. Começando com um jogo básico de adivinhação
+> Primeiro contato com a linguagem de programação Python.
+
+> Jogo simples de Adivinhação e Forca, implementando e praticando conceitos vistos no curso https://cursos.alura.com.br/course/python-3-avancando-na-linguagem.
 
 `Python (3)` `Alura` `PyCharm`
 
